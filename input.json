@@ -1,0 +1,7 @@
+{
+  "secrets_scan": {"findings_count": 0},
+  "vuln_scan": {"critical": 0, "high": 0},
+  "branch_protection": {"protected": true},
+  "coverage": {"percent": 70},
+  "ml_llm_verdict": {"ml_score": 0.12, "flagged": false, "llm_verdict": null}
+}
